@@ -1,4 +1,24 @@
-# Quartz v4
+# Kamenik Solutions Digital Garden
+
+This is my public website for Kamenik Solutions.
+
+Quartz is the underlying tool used to generate the page.  See [Getting Started](https://quartz.jzhao.xyz/#-get-started) for details on quartz.
+
+In order to make it easier to use, DevContainer support was added.
+
+## Update Quartz
+
+Full details [here](https://quartz.jzhao.xyz/upgrading), but basically.
+
+`npx quartz update`
+
+Then restart the DevContainer.
+
+> [!NOTE]
+> If you have an issue with commit signing then you might need to run
+> `git config commit.gpgsign false`
+
+## Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
