@@ -2,13 +2,26 @@
 
 This is my public website for Kamenik Solutions.
 
-Quartz is the underlying tool used to generate the page.  See [Getting Started](https://quartz.jzhao.xyz/#-get-started) for details on quartz.
+Quartz is the underlying tool used to generate the page.  See [Getting Started](./docs/index.md#-get-started) for details on quartz.
 
 In order to make it easier to use, DevContainer support was added.
 
+## Authoring Content
+
+Open the `./content` directory in Obsidian.  More details are [here](./docs/authoring%20content.md).
+
+## Serving Content
+
+`npx quartz build --serve`
+
+Then open http://localhost:8080
+
+> [!NOTE]
+> This is also the entrypoint to the container.
+
 ## Update Quartz
 
-Full details [here](https://quartz.jzhao.xyz/upgrading), but basically.
+Full details [here](./docs/upgrading.md), but basically.
 
 `npx quartz update`
 

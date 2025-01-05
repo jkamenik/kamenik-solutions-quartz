@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "c741aeb2307164c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0003c36616b4c56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bffd4999ba9f20d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "radar/techniques/DRY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da604dc07eafcb28",
+    "type": "split",
+    "children": [
+      {
+        "id": "153576cc9b29b79c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5639d1bb8ca3af1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c5f866e1b7b73dc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:ring/tool",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d2a6e1f36d82e10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "155d7fa9ae264902",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d555942673d7a43",
+        "type": "tabs",
+        "dimension": 29.86666666666667,
+        "children": [
+          {
+            "id": "6628f046ea49e67f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "radar/techniques/DRY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DRY"
+            }
+          },
+          {
+            "id": "6e9e2e9844013878",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff6f0783e2a2d3ad",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "radar/techniques/DRY.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of DRY"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7a3d3e16cd08cd4c",
+        "type": "tabs",
+        "dimension": 18.488888888888887,
+        "children": [
+          {
+            "id": "601546d6e2572bef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "radar/techniques/DRY.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DRY"
+            }
+          }
+        ]
+      },
+      {
+        "id": "542c2f9e225e33c5",
+        "type": "tabs",
+        "dimension": 51.644444444444446,
+        "children": [
+          {
+            "id": "31cb788b0a0acc9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "radar/techniques/DRY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DRY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5f866e1b7b73dc4",
+  "lastOpenFiles": [
+    "radar/techniques/IaC.md",
+    "radar/techniques/DRY.md",
+    "radar/techniques/Imperative IaC.md",
+    "radar/tools/Capistrano.md",
+    "radar/techniques",
+    "templates/Radar.md",
+    "templates",
+    "index.md",
+    "radar/Tools.md",
+    "radar/tools/Pulumi.md",
+    "radar/tools/Terraform.md",
+    "radar/tools/Skaffold.md",
+    "radar/tools/Docker Compose.md",
+    "radar/tools/Container Structure Test.md",
+    "radar/tools",
+    "radar"
+  ]
+}
