@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "jkamenik.github.io/kamenik-solutions-quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
@@ -85,7 +85,7 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
         rssLimit: 1000,
-        rssFullHtml: true,
+        // rssFullHtml: true,
         includeEmptyFiles: false,
       }),
       Plugin.Assets(),

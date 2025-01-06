@@ -3,7 +3,7 @@ ring: Assess
 quadrant: "[[Tools]]"
 movement: Up
 created: 2024-04-05T17:50
-updated: 2025-01-04T23:21
+modified: 2025-01-05T22:30
 ---
 # Pulumi
 

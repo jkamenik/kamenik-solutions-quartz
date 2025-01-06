@@ -1,7 +1,7 @@
 ---
 title: Kamenik Solutions
 created: 2024-11-22T22:58
-updated: 2025-01-05T20:17
+modified: 2025-01-05T22:30
 ---
 
 ### York, PA 17402 | [jkamenik@gmail.com](mailto:jkamenik@gmail.com) | [www.linkedin.com/in/johnkamenik](http://www.linkedin.com/in/johnkamenik)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "radar/tools/Capistrano.md",
+                "file": "radar/techniques/DRY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capistrano"
+              "title": "DRY"
             }
           }
         ]
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "radar/tools/Capistrano.md",
+                "file": "radar/techniques/DRY.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Capistrano"
+              "title": "Graph of DRY"
             }
           },
           {
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "radar/tools/Capistrano.md"
+                "file": "radar/techniques/DRY.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Capistrano"
+              "title": "Outline of DRY"
             }
           }
         ]
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "radar/tools/Capistrano.md",
+                "file": "radar/techniques/DRY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capistrano"
+              "title": "Backlinks for DRY"
             }
           }
         ]
@@ -223,24 +223,25 @@
   },
   "active": "2bffd4999ba9f20d",
   "lastOpenFiles": [
-    "tags/ring.md",
-    "radar/techniques/Imperative IaC.md",
-    "radar/techniques/IaC.md",
+    "Radar - Needs Review.md",
     "radar/techniques/DRY.md",
-    "tags/ring/technique.md",
-    "tags/ring",
+    "radar/techniques/IaC.md",
+    "radar/techniques/Imperative IaC.md",
     "radar/tools/Capistrano.md",
+    "radar/tools/Container Structure Test.md",
+    "radar/tools/Docker Compose.md",
+    "radar/tools/Pulumi.md",
+    "radar/tools/Skaffold.md",
+    "radar/tools/Terraform.md",
+    "tags/ring/technique.md",
+    "tags/ring.md",
+    "templates/Radar.md",
+    "index.md",
+    "tags/ring",
     "tags",
     "radar/techniques",
-    "templates/Radar.md",
     "templates",
-    "index.md",
     "radar/Tools.md",
-    "radar/tools/Pulumi.md",
-    "radar/tools/Terraform.md",
-    "radar/tools/Skaffold.md",
-    "radar/tools/Docker Compose.md",
-    "radar/tools/Container Structure Test.md",
     "radar/tools",
     "radar"
   ]

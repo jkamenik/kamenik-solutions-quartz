@@ -4,7 +4,7 @@ tags:
   - quardrant/hold
   - ring/technique
 created: 2025-01-05T00:33
-updated: 2025-01-05T01:06
+modified: 2025-01-05T22:30
 ---
 > [!danger]
 > Avoid if possible and use Declarative [[IaC]] instead.
