@@ -3,6 +3,8 @@ date: 2025-01-05
 tags:
   - quardrant/hold
   - ring/technique
+created: 2025-01-05T00:33
+updated: 2025-01-05T01:06
 ---
 > [!danger]
 > Avoid if possible and use Declarative [[IaC]] instead.

@@ -3,7 +3,7 @@ ring: Assess
 quadrant: "[[Tools]]"
 movement: Unchanged
 created: 2024-04-25T21:23
-updated: 2024-04-25T21:28
+updated: 2025-01-04T23:21
 ---
 # Skaffold
 

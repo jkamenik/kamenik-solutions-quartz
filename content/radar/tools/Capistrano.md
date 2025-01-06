@@ -3,8 +3,7 @@ ring: Hold
 quadrant: "[[Tools]]"
 movement: Unchanged
 created: 2024-04-05T17:23
-updated: 2024-04-05T18:35
-date: 2024-04-05
+updated: 2025-01-05T21:03
 tags:
   - quardrant/hold
   - ring/tool

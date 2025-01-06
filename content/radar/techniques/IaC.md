@@ -5,6 +5,8 @@ tags:
   - ring/tool
 aliases:
   - Declarative IaC
+created: 2025-01-05T00:45
+updated: 2025-01-05T01:10
 ---
 > [!summary]
 > Infrastructure as Code (IaC) is the idea that all infrastructure can (and should) be described as executable code.  This allows machines to continually reconcile the code against reality and eliminate drift before it becomes costly.

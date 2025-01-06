@@ -3,7 +3,7 @@ ring: Assess
 quadrant: "[[Tools]]"
 movement: Down
 created: 2024-04-05T18:34
-updated: 2024-04-05T18:46
+updated: 2025-01-04T23:21
 ---
 # Terraform
 

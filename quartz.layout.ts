@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/jkamenik",
       Linkedin: "https://www.linkedin.com/in/johnkamenik",
       Email: "mailto:kamenik.solutions@gmail.com",
-      RSS: "index.xml",
+      RSS: "/index.xml",
     },
   }),
 }

@@ -3,6 +3,8 @@ date: 2025-01-05
 tags:
   - quardrant/hold
   - ring/technique
+created: 2025-01-05T01:10
+updated: 2025-01-05T01:20
 ---
 > [!danger]
 > Don't Repeat Yourself is a technique aimed at reducing repetition of code.

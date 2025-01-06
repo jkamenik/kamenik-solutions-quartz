@@ -1,6 +1,6 @@
 ---
 created: 2024-04-25T21:13
-updated: 2024-04-25T21:23
+updated: 2025-01-04T23:21
 ring: Adopt
 quadrant: "[[Tools]]"
 movement: Unchanged
