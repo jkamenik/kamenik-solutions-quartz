@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "radar/techniques/DRY.md",
+                "file": "Radar - Needs Review.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "DRY"
+              "title": "Radar - Needs Review"
             }
           }
         ]
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "radar/techniques/DRY.md"
+                "file": "Radar - Needs Review.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DRY"
+              "title": "Outline of Radar - Needs Review"
             }
           }
         ]
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "radar/techniques/DRY.md",
+                "file": "Radar - Needs Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DRY"
+              "title": "Backlinks for Radar - Needs Review"
             }
           }
         ]
@@ -223,8 +223,9 @@
   },
   "active": "2bffd4999ba9f20d",
   "lastOpenFiles": [
-    "Radar - Needs Review.md",
+    "index.md",
     "radar/techniques/DRY.md",
+    "Radar - Needs Review.md",
     "radar/techniques/IaC.md",
     "radar/techniques/Imperative IaC.md",
     "radar/tools/Capistrano.md",
@@ -236,7 +237,6 @@
     "tags/ring/technique.md",
     "tags/ring.md",
     "templates/Radar.md",
-    "index.md",
     "tags/ring",
     "tags",
     "radar/techniques",

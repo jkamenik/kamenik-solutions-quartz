@@ -1,5 +1,5 @@
 {
-  "dateFormat": "yyyy-MM-dd'T'HH:mmX",
+  "dateFormat": "yyyy-MM-dd'T'HH:mm:ss.SSSXXX",
   "enableCreateTime": true,
   "headerUpdated": "modified",
   "headerCreated": "created",
@@ -19,8 +19,8 @@
     "radar/techniques/Imperative IaC.md": "beb889b10cc73fc40122d120cb12cb17066bf05b26357442696924da557131ac",
     "radar/techniques/IaC.md": "e6f97d0100e88ead87b5f3f9afaad044f13cba06a6364854ad24933ff5c1e908",
     "radar/techniques/DRY.md": "fd2b0b4b987f8d6aaee8fca1c13724f4398a95db95e351e2bea70a8ad0b41b32",
-    "index.md": "c1ad5b21a25f2bb86c95932e254e51b8fda2c885ef0baf1dec56f120d27e5f92",
+    "index.md": "bcb556b3c68c5b722021e9b41a1c3a408128b33385e045dcce5bc45c51bc084e",
     "tags/ring/technique.md": "5e0ee343e1f859dc378bddba0c21293a22d758e03431c1d35ccac2b7f6b858c2",
-    "Radar - Needs Review.md": "8dbb80f7ffee58bac21189779707a72581aa25b0aaa4a1fa808d8f9057c41e29"
+    "Radar - Needs Review.md": "77417f711ae38fd1102cfbac3c5a329c0ef67afde455d7faf825a0360c5412eb"
   }
 }
